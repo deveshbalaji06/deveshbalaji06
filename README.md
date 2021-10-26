@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**deveshbalaji06/deveshbalaji06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Mern Stack Project.
+- 🌱 I’m currently learning Mern Stack Development.
+- 👯 I’m looking to collaborate on anything that will help me.
+- 💬 Ask me about anything about mern stack develepment.
+- 📫 How to reach me: deveshbalaji06@gmail.com
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=deveshbalaji06&show_icons=true&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deveshbalaji06&show_icons=true&theme=radical" height="195px">
+<div>
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
